@@ -1,0 +1,16 @@
+{
+  "name": "sql-node-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^5.22.3",
+    "sqlite3": "^5.0.0"
+  }
+}
